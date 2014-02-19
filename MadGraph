@@ -53,3 +53,9 @@ the number of events).
 cd PROC_MSSM_D/Events/run_01
 
 gunzip unweighted_events.lhe.gz
+
+
+###################
+Note: cross-section will applear in the: /madgraph5/PROC_MSSM_AZH/crossx.html directory
+###################
+
