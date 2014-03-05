@@ -9,4 +9,6 @@ HIG-Summer12pLHE-00344-00352
 
 7 TeV
 AToZhToLLTauTau_MA-260_Mh1-125_7TeV-madgraph5-pythia6
-https://cms-pdmv.cern.ch/mcm/requests?prepid=HIG-Summer11pLHE-00160&page=0
+
+https://cms-pdmv.cern.ch/mcm/requests?dataset_name=AToZhToLLTauTau_MA-*_Mh1-125_7TeV-madgraph5-pythia6&energy=7&page=0
+HIG-Summer11pLHE-00160 to 00169
